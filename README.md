@@ -4,5 +4,5 @@
 
 This is **Graphic Interface Application**. It's supposed for using with remote keyboards or devices that emulate keyboards. 
 
-This Application receives keyboard commands and transforms them to POST requests and make these requests to the LED Server [GitHub Pages](https://github.com/philingvo/led_server).
+This Application receives keyboard commands and transforms them to POST requests and make these requests to the [LED Server](https://github.com/philingvo/led_server).
 It’s based on the pygame library. It consists of branches of menus and their items. When you go up and down in these branches you can see names of items in this Interface window and the LED ticker at the same time.
