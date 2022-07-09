@@ -2,7 +2,7 @@
 
 user_settings = {
 "test_mode": False, # True - do not send messages to LED
-"led_server_address": "192.168.0.110",
+"led_server_address": "192.168.0.123",
 "led_server_address_port": 12345,
 "show_command_messages_in_window": False,
 "language": "en",
