@@ -97,5 +97,5 @@ class Saving_Pronunciation_File(Player_Basic):
 		while self.pg.mixer.music.get_busy():
 			sleep(1)
 		else:
-			self.pg.mixer.music.unload()
+			# self.pg.mixer.music.unload()
 			os.remove(audio_file_path)
