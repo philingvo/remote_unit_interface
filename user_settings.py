@@ -18,7 +18,7 @@ user_settings = {
 
 							"additional_player_settings": {"delete_audio_file_after": True,  # for players with saving
 															"pronunciations_files_dir": "pronunciations", # for players with saving
-															"philingvo_dictionary_pronunciation_server_address": "127.0.0.1:8050", # for players with philingvo dictionary 
+															"philingvo_dictionary_pronunciation_server_address": "192.168.0.123:8050", # for players with philingvo dictionary 
 															"play_random_pronunciation_file": False}
 							},
 "application_settings": {"philingvo_dictionary": {"address": "192.168.0.123:8050"}},
