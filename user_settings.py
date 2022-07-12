@@ -21,7 +21,7 @@ user_settings = {
 															"philingvo_dictionary_pronunciation_server_address": "127.0.0.1:8050", # for players with philingvo dictionary 
 															"play_random_pronunciation_file": False}
 							},
-"application_settings": {"philingvo_dictionary": {"address": "127.0.0.1:8050"}},
+"application_settings": {"philingvo_dictionary": {"address": "192.168.0.123:8050"}},
 "window_settings": {"width": 800,
 					"height": 300,
 					"background_color": "black",
